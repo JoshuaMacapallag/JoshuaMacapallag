@@ -32,7 +32,7 @@
 <p align="left">Information Communication Technology (SHS) | New Era University <br>
 2018 - 2020 <br></p>
 <p align="left"> New Era High School<br>
-2015-2018 <br><br></p>
+2015-2018 <br></p>
 <p align="left"> New Era Elementary School<br>
 2010-2015 <br><br></p>
 <h3 align="left">Connect with me:</h3>

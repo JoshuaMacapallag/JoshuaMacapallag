@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/JoshuaMacapallag/JoshuaMacapallag/blob/3713f8845e369b1da0f2e7c87505f4730c191cdc/macapallag_bgwallpaper.png&height=267)](https://rishavchanda.io)
+[![MasterHead](https://github.com/JoshuaMacapallag/JoshuaMacapallag/blob/3713f8845e369b1da0f2e7c87505f4730c191cdc/macapallag_bgwallpaper.png&height=267)]
 <h1 align="center">Macapallag, Joshua P.</h1>
 
 <p align="center">

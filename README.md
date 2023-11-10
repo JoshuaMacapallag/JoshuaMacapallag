@@ -1,4 +1,4 @@
-("ttps://github.com/JoshuaMacapallag/JoshuaMacapallag/blob/main/macapallag_bgwallpaper.jpg")
+("https://github.com/JoshuaMacapallag/JoshuaMacapallag/blob/main/macapallag_bgwallpaper.jpg")
 <h1 align="center">Macapallag, Joshua P.</h1>
 
 <p align="center">

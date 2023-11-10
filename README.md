@@ -1,4 +1,4 @@
-[![MasterHead](https://media.discordapp.net/attachments/1070739126292328468/1150713751545327708/AASDLASDASD.png?width=1025&height=267)](https://rishavchanda.io)
+[![MasterHead](https://github.com/JoshuaMacapallag/JoshuaMacapallag/blob/3713f8845e369b1da0f2e7c87505f4730c191cdc/macapallag_bgwallpaper.png&height=267)](https://rishavchanda.io)
 <h1 align="center">Macapallag, Joshua P.</h1>
 
 <p align="center">
